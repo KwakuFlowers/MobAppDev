@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "111029870118",
+    "project_id": "streamthoughts1",
+    "storage_bucket": "streamthoughts1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111029870118:android:5844e034d418daba6710e7",
+        "android_client_info": {
+          "package_name": "com.kwakuflowers.assignment2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111029870118-1o7al2d3u3dl45bia69tdf4ftvd7et71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfv9EnVKBYzn3AXzgsByxAhw9hT8RtrRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111029870118-1o7al2d3u3dl45bia69tdf4ftvd7et71.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "111029870118-fo4nb32ksr1bitfc43nrf9pfkghm6o37.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.assignment2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111029870118:android:9ee9b9b7ea465aee6710e7",
+        "android_client_info": {
+          "package_name": "com.kwakuflowers.assignment3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111029870118-1o7al2d3u3dl45bia69tdf4ftvd7et71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfv9EnVKBYzn3AXzgsByxAhw9hT8RtrRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111029870118-1o7al2d3u3dl45bia69tdf4ftvd7et71.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "111029870118-fo4nb32ksr1bitfc43nrf9pfkghm6o37.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.assignment2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111029870118:android:b24a0d10cf0ae8f96710e7",
+        "android_client_info": {
+          "package_name": "com.kwakuflowers.streamthoughts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111029870118-1o7al2d3u3dl45bia69tdf4ftvd7et71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfv9EnVKBYzn3AXzgsByxAhw9hT8RtrRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111029870118-1o7al2d3u3dl45bia69tdf4ftvd7et71.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "111029870118-fo4nb32ksr1bitfc43nrf9pfkghm6o37.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.assignment2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

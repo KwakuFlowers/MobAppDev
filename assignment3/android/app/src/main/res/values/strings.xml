@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">PostIt2</string>
+<string name="facebook_app_id">3158183951087454</string>
+<string name="fb_login_protocol_scheme">fb3158183951087454</string>
+<string name="facebook_client_token">7c27ba6bc94f4a1d33a19bf6b0c55637</string>
+
+</resources>
